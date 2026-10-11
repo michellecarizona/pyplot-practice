@@ -1,0 +1,6 @@
+This notebook was about introducing the basics of data visualization in Python using the Matplotlib library. 
+I learned how a single list of numbers passed into the plt.plot() function automatically represents the y-axis values. 
+I also discovered that Matplotlib automatically generates the corresponding x-axis values using the index positions starting from zero. 
+During the exercise, I experimented with understanding how functions like plt.ylabel() add descriptive labels to the graph. 
+While I didn't have to change the core data list itself, I practiced interpreting how the coordinate pairs are formed behind the scenes. 
+Overall, this notebook helped me understand the foundational steps required to render and customize a simple line graph in Python.
